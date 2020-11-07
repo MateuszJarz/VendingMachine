@@ -23,6 +23,8 @@ namespace VendingMachine_MateuszJarząbek
 
 		
 		
+		//deklaracje
+
 
 		//deklaracja tablicy dla przechowania nominałów monet
 		float[] ValueOfCoins = { 5, 2, 1, 0.5F };
